@@ -1,4 +1,4 @@
-# Programacion-2}
+# Programa para sumer 2 numeros .py y respuesta de las preguntas
 programa para sumar 2 numeros
 
 
